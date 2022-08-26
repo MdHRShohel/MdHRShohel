@@ -35,14 +35,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhrshohel&show_icons=true&locale=en&layout=compact" alt="mdhrshohel" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdhrshohel&show_icons=true&locale=en" alt="mdhrshohel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel&" alt="mdhrshohel" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mdhrshohel)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mdhrshohel)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel) 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdhrshohel&show_icons=true&locale=en" alt="mdhrshohel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel&" alt="mdhrshohel" /></p>
