@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhrshohel" /> </p>
 
 
-- 🔭 I’m currently working on Social Platform
+- 🔭 I’m currently working on Social Platform.
 
 - 🌱 I’m currently learning **AI,Networking,Digital Marketing**
 
 - 👯 I’m looking to collaborate on Frontend Web Development 
 
-- 🤝 I’m looking for help with GITHUB
+- 🤝 I’m looking for help with GITHUB.
 
 - 👨‍💻 All of my projects are available at [in this github.](in this github.)
 
