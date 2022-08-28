@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Social Platform.
 
-- 🌱 I’m currently learning **AI,Networking,Digital Marketing**
+- 🌱 I’m currently learning **AI,Different Frameworks,Networking**
 
 - 👯 I’m looking to collaborate on Frontend Web Development 
 
