@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **md.hrshohel@engineer.com**
 
-- 📄 Know about my experiences [about.me/Md.Habibur-Rahman-Shohel](about.me/Md.Habibur-Rahman-Shohel)
+- 📄 Know about me and my experiences [about.me/Md.Habibur-Rahman-Shohel](about.me/Md.Habibur-Rahman-Shohel)
 
 - ⚡ Fun fact **I think I am funny.**
 
