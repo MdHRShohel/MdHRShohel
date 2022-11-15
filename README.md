@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **md.hrshohel@engineer.com**
 
-- 📄 Know about me and my experiences [about.me/Md.Habibur-Rahman-Shohel](about.me/Md.Habibur-Rahman-Shohel)
+- 📄 Know about me and my experiences from my repositories
 
-- ⚡ Fun fact **I think I love to play guitar.**
+- ⚡ Fun fact **I love to play guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
