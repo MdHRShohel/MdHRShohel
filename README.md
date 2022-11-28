@@ -2,6 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Md. Habibur Rahman Shohel</h1>
 <h3 align="center">A passionate MERN Stack Developer from Dhaka, Bangladesh</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Engineering+Student;Tech%20Enthusiast;Problem+Solving;Always%20learning%20new%20things;Evolving;Communication;Organization;Leadership;Responsibility;Analysis;Innovation&center=true&width=500&height=50"></a>
 </p>
@@ -16,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on Frontend Web Development 
 
-- 💬 Ask me about **react, javascript, mongodb**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **md.hrshohel@engineer.com**
 
@@ -48,6 +54,7 @@
 
 [![@mdhrshohel's Holopin board](https://holopin.io/api/user/board?user=mdhrshohel)](https://holopin.io/@mdhrshohel)
 
+# 📊 GitHub Stats:
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mdhrshohel&&theme=xcode)](https://github.com/mdhrshohel)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhrshohel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdhrshohel" /></p>
@@ -55,4 +62,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdhrshohel&show_icons=true&locale=en&theme=tokyonight" alt="mdhrshohel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel&&theme=tokyonight" alt="mdhrshohel" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mdhrshohel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
