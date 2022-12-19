@@ -57,7 +57,6 @@
 [![Check out MdHRShohel's profile on stardev.io](https://stardev.io/developers/MdHRShohel/badge/languages/country.svg)](https://stardev.io/developers/MdHRShohel)
 
 # 📊 GitHub Stats:
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mdhrshohel&&theme=xcode)](https://github.com/mdhrshohel)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhrshohel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mdhrshohel" /></p>
 
