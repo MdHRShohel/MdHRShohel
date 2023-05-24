@@ -16,11 +16,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhrshohel" /> </p>
 
 
-- 🔭 I’m currently working on Social Platform.
+- 🔭 I’m currently working on Technovation IT as a Web & Apps Developer.
 
-- 🌱 I’m currently learning **AI,Different Frameworks,Networking**
+- 🌱 I’m currently learning **Artificial Intelligence(ML, DL, NLP), Different Frameworks, Cyber Security.**
 
-- 👯 I’m looking to collaborate on Frontend Web Development 
+- 👯 I’m looking to collaborate on Full Stack Development.
 
 - 💬 Ask me about **MERN**
 
@@ -28,7 +28,7 @@
 
 - 📄 Know about me and my experiences from my repositories
 
-- ⚡ Fun fact **I love to play guitar.**
+- ⚡ Fun fact **I love to play with my Cat.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
