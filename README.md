@@ -16,9 +16,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile%20views&color=0e75b6&style=flat" alt="mdhrshohel" /> </p>
 
 
-- 🔭 I’m currently working on Technovation IT as a Web & Apps Developer.
+- 🔭 I’m currently working on Open Source contribution.
 
-- 🌱 I’m currently learning **Artificial Intelligence(ML, DL, NLP), Different Frameworks, Cyber Security.**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning, Different Frameworks and Cyber Security.**
 
 - 👯 I’m looking to collaborate on Full Stack Development.
 
