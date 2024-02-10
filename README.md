@@ -57,9 +57,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrshohel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrshohel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 [![@mdhrshohel's Holopin board](https://holopin.io/api/user/board?user=mdhrshohel)](https://holopin.io/@mdhrshohel)
 
 
