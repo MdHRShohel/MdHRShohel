@@ -1,50 +1,58 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md.%20Habibur%20Rahman%20Shohel&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20React.js%20%7C%20Node.js%20%7C%20Web3&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Habibur%20Rahman%20Shohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer%20%7C%20React%20%7C%20Node.js%20%7C%20Web3%20%7C%20Docker&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+things+for+the+web+%F0%9F%9A%80;Frontend-First+Full-Stack+Engineer;React.js+%7C+Next.js+%7C+Vue.js+%7C+TypeScript;Node.js+%7C+Python+FastAPI+%7C+NestJS;Docker+%7C+Redis+%7C+OAuth+2.0+%7C+Web3;10%2B+Production+Projects+Shipped+%E2%9C%85" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+things+for+the+web+%F0%9F%9A%80;Frontend-First+Full-Stack+Engineer;React.js+%7C+Next.js+%7C+Vue.js+%7C+TypeScript;Node.js+%7C+Python+FastAPI+%7C+NestJS;Docker+%7C+Redis+%7C+OAuth+2.0+%7C+Web3;10%2B+Production+Projects+Shipped+%E2%9C%85" alt="Typing SVG" />
 </p>
+
+<br/>
 
 <p align="center">
   <a href="https://linkedin.com/in/mdhrshohel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://shohel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:md.hrshohel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://dev.to/mdhrshohel"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://twitter.com/mdhrshohel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile+Views&color=2563EB&style=for-the-badge" />
+  <a href="https://dev.to/mdhrshohel"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-6366F1?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile+Views&color=0891b2&style=for-the-badge" />
 </p>
 
 ---
 
 ## About Me
 
-Frontend-focused Full-Stack Software Engineer with **3+ years** of professional experience crafting pixel-perfect UIs and scalable backend systems. I specialise in **React.js**, **Next.js**, **Vue.js**, **TypeScript**, and **Node.js**, with strong expertise in REST API design, OAuth 2.0, real-time systems, Redis caching, Docker, and Linux VPS deployment.
+Frontend-focused Full-Stack Engineer with **3+ years** building production-grade apps. I craft pixel-perfect, performant UIs with **React.js**, **Next.js**, and **Vue.js** while architecting solid backends with **Node.js**, **Python FastAPI**, and **NestJS**. Deep expertise in REST APIs, OAuth 2.0, real-time systems, Redis caching, Docker, and Linux VPS.
 
-- Currently a **Software Engineer @ Core Devs Ltd.**
-- Delivered **10+ production projects** across fintech, e-commerce, HR, Web3, and social media
-- IEEE Published: *Vehicle Routing Problem Solving Using Reinforcement Learning* — [ICCIT 2023](https://ieeexplore.ieee.org/document/10441644/)
-- Passionate about **clean UI/UX**, **component architecture**, and **developer experience**
-- Fun fact: I play guitar and live with a very opinionated cat
+```ts
+const shohel = {
+  role:       "Frontend-Focused Full-Stack Engineer",
+  company:    "Core Devs Ltd.",
+  location:   "Dhaka, Bangladesh",
+  portfolio:  "https://shohel.vercel.app",
+  languages:  ["JavaScript", "TypeScript", "Python"],
+  frontend:   ["React.js", "Next.js", "Vue.js", "React Native"],
+  backend:    ["Node.js", "Express.js", "NestJS", "FastAPI"],
+  devops:     ["Docker", "Linux VPS", "Nginx", "PM2"],
+  auth:       ["OAuth 2.0", "JWT", "Session/Cookie", "Passport.js"],
+  databases:  ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+  web3:       ["Ethers.js", "Wagmi", "Viem", "Solana"],
+  funFact:    "I play guitar and have a very opinionated cat 🐱",
+};
+```
 
 ---
 
 ## Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 **Frontend — Primary Focus**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -68,7 +76,7 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
 
-**Databases**
+**Databases & Cache**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -108,7 +116,7 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 
 | Project | Description | Stack |
 |---|---|---|
-| **Crypto Gift Card Shop** | Multi-chain crypto e-commerce with USDT on BSC & TRON, QR code checkout, and automated gift code delivery | React · Node.js · TronWeb · Wagmi · Stripe · BullMQ · Redis |
+| **Crypto Gift Card Shop** | Multi-chain crypto e-commerce with USDT on BSC & TRON, QR checkout, and automated gift code delivery | React · Node.js · TronWeb · Wagmi · Stripe · BullMQ · Redis |
 | **Meana Raptor E-commerce** | Full-stack e-commerce with 3D product visualisation, hardware wallet support, and GSAP animations | Next.js · Three.js · ThirdWeb · GSAP · MongoDB |
 | **Trueterra Oils** | AI-powered product chatbot and storefront with OpenAI integration | Express.js · OpenAI API · MongoDB · Socket.io |
 
@@ -119,7 +127,7 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 | Project | Description | Stack |
 |---|---|---|
 | **ETHOS DeFi Protocol** | Decentralised finance protocol with Uniswap V4 SDK, smart contracts, and multi-chain wallet support | React · Wagmi · Viem · Uniswap V4 SDK · Solidity |
-| **Web3 NFT Collection** | NFT car collection platform with 3D visualisation, GSAP animations, and ThirdWeb minting | Next.js · ThirdWeb · Three.js · GSAP |
+| **Web3 NFT Collection** | NFT car collection with 3D visualisation, GSAP animations, and ThirdWeb minting | Next.js · ThirdWeb · Three.js · GSAP |
 | **Coredevs Token Tracker** | Telegram bot for real-time on-chain token tracking with Moralis API | Express · Telegraf · Moralis · Web3.js |
 
 ---
@@ -128,10 +136,10 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 
 | Project | Description | Stack |
 |---|---|---|
-| **Fartbook** | Full-featured social media platform with real-time feed, reactions, image/video upload, and live notifications | React · Express · MongoDB · Socket.io · JWT |
+| **Fartbook** | Full-featured social platform with real-time feed, reactions, image/video upload, and live notifications | React · Express · MongoDB · Socket.io · JWT |
 | **TG Social Media** | Telegram-integrated social network with real-time messaging, crypto tipping, and community features | Express · MongoDB · Telegraf · Socket.io · Web3 |
-| **Clickdown** | Discord-like real-time collaboration tool with channel-based messaging and markdown support | React · Redux · Socket.io |
-| **SMS Bot Platform** | Automated SMS campaign platform with Twilio integration, Stripe billing, and analytics | Express · MongoDB · Twilio · Stripe · ApexCharts |
+| **Clickdown** | Discord-like collaboration tool with channel messaging and markdown support | React · Redux · Socket.io |
+| **SMS Bot Platform** | Automated SMS campaign platform with Twilio, Stripe billing, and analytics dashboard | Express · MongoDB · Twilio · Stripe · ApexCharts |
 
 ---
 
@@ -139,9 +147,9 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 
 | Project | Description | Stack |
 |---|---|---|
-| **CRM Platform** | Real-time insurance task management CRM with RBAC, JWT sessions, PDF generation, and batch operations | React · Express · MongoDB · Socket.io · JWT · PDF-lib |
+| **CRM Platform** | Real-time insurance task CRM with RBAC, JWT sessions, PDF generation, and batch operations | React · Express · MongoDB · Socket.io · JWT · PDF-lib |
 | **HR Management System** | Enterprise HR platform with face-recognition biometric attendance, payroll, and leave management | Express · MongoDB · TensorFlow.js · Face-API · React · React Native |
-| **AnalyticsX Dashboard** | Real-time business analytics dashboard with live Socket.io feeds and ApexCharts visualisations | React · Redux · Socket.io · ApexCharts |
+| **AnalyticsX Dashboard** | Real-time business analytics with live Socket.io feeds and ApexCharts visualisations | React · Redux · Socket.io · ApexCharts |
 
 ---
 
@@ -149,8 +157,8 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 
 | Project | Description | Stack |
 |---|---|---|
-| **Student Tutor Marketplace** | Full-stack tutor booking platform with rich text editor, Stripe payments, and Lottie animations | Next.js · Redux · Stripe · Quill.js |
-| **Tutor Platform API** | RESTful backend with OAuth 2.0, Twilio SMS verification, Stripe billing, and Prisma ORM | Express · Prisma · PostgreSQL · OAuth 2.0 · Twilio · Stripe |
+| **Student Tutor Marketplace** | Tutor booking platform with rich text editor, Stripe payments, and Lottie animations | Next.js · Redux · Stripe · Quill.js |
+| **Tutor Platform API** | RESTful backend with OAuth 2.0, Twilio SMS verification, Stripe billing, and Prisma ORM | Express · Prisma · PostgreSQL · OAuth 2.0 · Twilio |
 
 ---
 
@@ -159,7 +167,7 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 | Project | Description | Stack |
 |---|---|---|
 | **Support AI Chatbot** | Context-aware AI support bot with OpenAI API, real-time Socket.io messaging, and conversation history | Express · OpenAI API · MongoDB · Socket.io |
-| **Meana Raptor CLI** | TypeScript CLI tool for e-commerce smart contract interactions and Web3 operations | TypeScript · Truffle · Web3.js |
+| **Meana Raptor CLI** | TypeScript CLI for e-commerce smart contract interactions and Web3 operations | TypeScript · Truffle · Web3.js |
 
 ---
 
@@ -175,19 +183,13 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhrshohel&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel&theme=tokyonight&hide_border=true&border_radius=10" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdhrshohel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=prs&border_radius=10" width="43%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhrshohel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=prs" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdhrshohel&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
 </div>
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdhrshohel&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
-</p>
 
 ---
 
@@ -202,6 +204,7 @@ Frontend-focused Full-Stack Software Engineer with **3+ years** of professional 
 ## Connect with Me
 
 <p align="left">
+  <a href="https://shohel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mdhrshohel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/mdhrshohel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://dev.to/mdhrshohel"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
