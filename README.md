@@ -1,16 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Habibur%20Rahman%20Shohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Engineer%20%7C%20React%20%7C%20Node.js%20%7C%20Web3%20%7C%20Docker&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Habibur%20Rahman%20Shohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20FastAPI%20%7C%20Web3&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+things+for+the+web+%F0%9F%9A%80;Frontend-First+Full-Stack+Engineer;React.js+%7C+Next.js+%7C+Vue.js+%7C+TypeScript;Node.js+%7C+Python+FastAPI+%7C+NestJS;Docker+%7C+Redis+%7C+OAuth+2.0+%7C+Web3;10%2B+Production+Projects+Shipped+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+things+for+the+web+%F0%9F%9A%80;Software+Engineer+%40+Serviq+BPO+Limited;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+React+Native;Node.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Web3+%C2%B7+Solidity+%C2%B7+Ethers.js+%C2%B7+Wagmi+%C2%B7+TronWeb;Building+Paylio+%E2%80%94+HR+%26+Payroll+SaaS+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 </p>
 
-<br/>
-
 <p align="center">
+  <a href="https://shohel.bro.bd"><img src="https://img.shields.io/badge/Portfolio-0F5257?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mdhrshohel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://shohel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:md.hrshohel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/mdhrshohel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:md.hrshohel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/MdHRShohel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://dev.to/mdhrshohel"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
@@ -21,84 +19,34 @@
   <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile+Views&color=0891b2&style=for-the-badge" />
 </p>
 
----
+## About
 
-## About Me
+Full-stack engineer with 3+ years shipping production systems across web, mobile, and blockchain. I build React and Next.js frontends on top of Node.js and Python backends, and I have shipped crypto payment flows on BSC and TRON into live commerce. IEEE-published, based in Dhaka.
 
-Frontend-focused Full-Stack Engineer with **3+ years** building production-grade apps. I craft pixel-perfect, performant UIs with **React.js**, **Next.js**, and **Vue.js** while architecting solid backends with **Node.js**, **Python FastAPI**, and **NestJS**. Deep expertise in REST APIs, OAuth 2.0, real-time systems, Redis caching, Docker, and Linux VPS.
+## Currently
 
-```ts
-const shohel = {
-  role:       "Frontend-Focused Full-Stack Engineer",
-  company:    "Core Devs Ltd.",
-  location:   "Dhaka, Bangladesh",
-  portfolio:  "https://shohel.vercel.app",
-  languages:  ["JavaScript", "TypeScript", "Python"],
-  frontend:   ["React.js", "Next.js", "Vue.js", "React Native"],
-  backend:    ["Node.js", "Express.js", "NestJS", "FastAPI"],
-  devops:     ["Docker", "Linux VPS", "Nginx", "PM2"],
-  auth:       ["OAuth 2.0", "JWT", "Session/Cookie", "Passport.js"],
-  databases:  ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-  web3:       ["Ethers.js", "Wagmi", "Viem", "Solana"],
-  funFact:    "I play guitar and have a very opinionated cat 🐱",
-};
-```
+**Software Engineer at [Serviq BPO Limited](https://github.com/Serviq-Limited)**, building **Paylio**, a multi-tenant HR and payroll SaaS for the Bangladesh market.
 
----
+FastAPI · SQLAlchemy 2.0 async · PostgreSQL · Next.js App Router · Tailwind · Docker. Multi-tenant organisation isolation, role-based access control, Bengali and English interfaces, and payroll rules written for Bangladeshi tax and compliance.
 
-## Tech Stack
+## Selected work
 
-**Frontend — Primary Focus**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+Six case studies, each with a full write-up on my portfolio:
 
-**Mobile**
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**ETHOS — DeFi Protocol on Base**](https://shohel.bro.bd/projects/ethos-defi-protocol) | Multi-pool DeFi protocol with veToken governance, discount swaps, and Uniswap V4 integration on Base mainnet | React · TypeScript · Solidity · Vite · Ethereum |
+| [**Meana Raptor — Web3 Ecosystem**](https://shohel.bro.bd/projects/meana-raptor-web3-ecosystem) | Modular Web3 platform: MRT token site, NFT store, staking and raffles, with tier-based pricing from on-chain holdings | Next.js · Node.js · Express · MongoDB · Web3.js |
+| [**Crypto Gift Card Shop**](https://shohel.bro.bd/projects/gift-card-shop) | USDT gift card commerce on BSC and TRON with real-time chain verification and QR checkout | React · Node.js · MongoDB · Wagmi · TronWeb |
+| [**Insurance Agency Task CRM**](https://shohel.bro.bd/projects/insurance-agency-task-crm-system) | Real-time task CRM with modular RBAC, live collaboration, PDF generation, and batch workflows | React · Redux Toolkit · Express · MongoDB · Socket.io |
+| [**TrueTerra Oils AI Chatbot**](https://shohel.bro.bd/projects/trueterra-oils-ai-chatbot) | Wellness consultant chatbot with retrieval-augmented generation and personalised recommendations | React · TypeScript · Node.js · MongoDB · OpenAI |
+| [**Support AI Bot**](https://shohel.bro.bd/projects/support-ai-bot) | Telegram customer support system with an admin dashboard and conversation history | Node.js · Express · Next.js · MongoDB · OpenAI |
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Auth & Security**
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black)
-
-**Databases & Cache**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Web3 & Blockchain**
-![Ethers.js](https://img.shields.io/badge/Ethers.js-764ABC?style=flat-square&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-
----
+More at **[shohel.bro.bd](https://shohel.bro.bd)**.
 
 ## Projects by Domain
+
+The wider body of client and personal work behind the case studies above:
 
 ### Fintech & Algorithmic Trading
 
@@ -178,38 +126,66 @@ const shohel = {
 | **House Finder** | Property search platform with map integration, image upload, and advanced filters | React · Redux · Leaflet Maps · Dropzone |
 | **Trip Planner** | Cross-platform travel planning mobile app with itinerary management | React Native · React Navigation |
 
----
+## Impact
 
-## GitHub Stats
+- Shipped **20+ production features** across **5+ concurrent client projects** serving **300+ active users**
+- Owned frontend architecture end to end: component systems, code standards, and design consistency
+- Mentored **2–3 junior developers** through code review and pair programming
+- Led sprint planning and estimation in a **6-person cross-functional team**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdhrshohel&theme=tokyonight&hide_border=true&border_radius=10" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mdhrshohel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&hide=prs&border_radius=10" width="43%" />
-</div>
+## Stack
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdhrshohel&theme=tokyo-night&hide_border=true&radius=8" width="100%" />
-</div>
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
----
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-## Publication
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Vehicle Routing Problem Solving Using Reinforcement Learning**
-*2023 26th International Conference on Computer and Information Technology (ICCIT)*
-[ieeexplore.ieee.org/document/10441644](https://ieeexplore.ieee.org/document/10441644/)
+**Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=flat-square&logo=ethereum&logoColor=white)
+![TronWeb](https://img.shields.io/badge/TronWeb-EC0928?style=flat-square&logo=tron&logoColor=white)
 
----
+**Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-## Connect with Me
+## Credentials
+
+**B.Sc. in Computer Science and Engineering** — Bangladesh University of Business and Technology (BUBT), 2019–2023
+
+**Publication** — [Vehicle Routing Problem Solving Using Reinforcement Learning](https://ieeexplore.ieee.org/document/10441644/), IEEE ICCIT 2023
+
+- AI Engineering Hackathon 2025 — Brain Station 23
+- ICPC Asia Dhaka Regional, Online Preliminary Contest — 2022
+- AI Launchpad Hackathon — SJ Innovation LLC
+- Full Stack Engineer Certificate — pro5.ai
+
+## Connect
 
 <p align="left">
-  <a href="https://shohel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://shohel.bro.bd"><img src="https://img.shields.io/badge/Portfolio-0F5257?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mdhrshohel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mdhrshohel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://dev.to/mdhrshohel"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://x.com/MdHRShohel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/MdHRShohel"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.leetcode.com/mdhrshohel"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:md.hrshohel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
