@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Habibur%20Rahman%20Shohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20FastAPI%20%7C%20Web3&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Habibur%20Rahman%20Shohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Web%20%C2%B7%20Mobile%20%C2%B7%20Backend&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+things+for+the+web+%F0%9F%9A%80;Software+Engineer+%40+Serviq+BPO+Limited;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+React+Native;Node.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Web3+%C2%B7+Solidity+%C2%B7+Ethers.js+%C2%B7+Wagmi+%C2%B7+TronWeb;Building+Joblee+%26+Paylio+%E2%80%94+AI+Hiring+%26+Payroll+SaaS+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+web%2C+mobile+%26+backend+%F0%9F%9A%80;Freelancing+for+clients+since+2023;Software+Engineer+%40+Serviq+BPO+Limited;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+React+Native;Node.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Web3+%C2%B7+Solidity+%C2%B7+Ethers.js+%C2%B7+Wagmi+%C2%B7+TronWeb;Building+Joblee+%26+Paylio+%E2%80%94+AI+Hiring+%26+Payroll+SaaS+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://shohel.bro.bd"><img src="https://img.shields.io/badge/Portfolio-0F5257?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://shohel.bro.bd"><img src="https://img.shields.io/badge/Portfolio-2340D8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mdhrshohel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:md.hrshohel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://x.com/MdHRShohel"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -21,7 +21,7 @@
 
 ## About
 
-Full-stack engineer with 4 years of experience shipping production systems across web, mobile, blockchain, and AI. I build React and Next.js frontends on top of Node.js and Python (FastAPI) backends, lead product delivery from requirements to production, and have shipped crypto payment flows on BSC and TRON into live commerce. IEEE-published, based in Dhaka.
+Full-stack engineer with 4 years of experience shipping production systems across web, mobile, blockchain, and AI, and freelancing for clients since 2023. I build React and Next.js frontends and React Native apps on top of Node.js and Python (FastAPI) backends, lead product delivery from requirements to production, and have shipped crypto payment flows on BSC and TRON into live commerce. IEEE-published, based in Dhaka.
 
 ## Currently
 
@@ -34,13 +34,16 @@ FastAPI · SQLAlchemy 2.0 async · PostgreSQL · Redis · Next.js App Router · 
 
 I own requirements, architecture, CI/CD, and production maintenance, and set code-review standards for the team.
 
+**Freelance full-stack engineer** (2023 – present) — web, mobile and backend work for clients alongside full-time roles; recently [Hotel D'more](https://shohel.bro.bd/projects/hotel-dmore), [Posh Celebration](https://shohel.bro.bd/projects/posh-celebration) (with UI/UX agency [Usarion](https://www.usarion.com/)) and [Opseek](https://shohel.bro.bd/projects/opseek-agency-website).
+
 ## Selected work
 
-Nine case studies, each with a full write-up on my portfolio:
+Ten case studies, each with a full write-up on my portfolio:
 
 | Project | What it does | Stack |
 |---|---|---|
 | [**Hotel D'more — Hotel Booking Platform**](https://shohel.bro.bd/projects/hotel-dmore) | Direct-booking platform for a 7-property hotel chain: corporate site, a booking site per hotel, SSLCommerz payments, and an admin dashboard for rooms, rates and content | Next.js · Express · Prisma · MySQL · SSLCommerz |
+| [**Posh Celebration — Event Marketplace**](https://shohel.bro.bd/projects/posh-celebration) | Frontend for Bangladesh's AI-powered event marketplace (1,000+ partners), built with UI/UX agency [Usarion](https://www.usarion.com/): marketplace, vendor flows, AI planning tools and partner onboarding | React · Inertia.js · Laravel · Tailwind |
 | [**BD Bank Routing — Open Dataset**](https://shohel.bro.bd/projects/bd-bank-routing) | Open-source Bangladesh bank, branch and BEFTN routing dataset (63 banks, 11,426 branches) with validators on PyPI and npm | Python · TypeScript · PyPI · npm |
 | [**Opseek — Figma to Webflow Website**](https://shohel.bro.bd/projects/opseek-agency-website) | Full website for a UI/UX agency, built in Webflow from Figma, with CMS-driven services, case studies, blog and careers | Figma · Webflow · Webflow CMS · GSAP |
 | [**ETHOS — DeFi Protocol on Base**](https://shohel.bro.bd/projects/ethos-defi-protocol) | Multi-pool DeFi protocol with veToken governance, discount swaps, and Uniswap V4 integration on Base mainnet | React · TypeScript · Solidity · Vite · Ethereum |
@@ -82,6 +85,7 @@ The wider body of client and personal work behind the case studies above:
 | Project | Description | Stack |
 |---|---|---|
 | **Hotel D'more** | Multi-property hotel booking with per-date inventory, per-hotel SSLCommerz merchant accounts, and a CMS-driven admin dashboard | Next.js · Express · Prisma · MySQL · SSLCommerz |
+| **Posh Celebration** | Frontend for an AI-powered event marketplace — venues, decor, vendors and planning tools — designed by Usarion | React · Inertia.js · Laravel · Tailwind |
 | **Crypto Gift Card Shop** | Multi-chain crypto e-commerce with USDT on BSC & TRON, QR checkout, and automated gift code delivery | React · Node.js · TronWeb · Wagmi · Stripe · BullMQ · Redis |
 | **Meana Raptor E-commerce** | Full-stack e-commerce with 3D product visualisation, hardware wallet support, and GSAP animations | Next.js · Three.js · ThirdWeb · GSAP · MongoDB |
 | **Trueterra Oils** | AI-powered product chatbot and storefront with OpenAI integration | Express.js · OpenAI API · MongoDB · Socket.io |
@@ -158,6 +162,8 @@ The wider body of client and personal work behind the case studies above:
 ## Impact
 
 - **4 years** of production work across 4 companies, from eHealth and mobile apps to Web3 and HR/payroll SaaS
+- **Freelancing since 2023** — hotel booking, event marketplace and agency websites for clients
+- Shipped **3 cross-platform mobile apps** (iOS & Android) with React Native and Expo
 - Lead end-to-end delivery of **Joblee** and **Paylio** at Serviq — requirements, architecture, deployment, and maintenance
 - Shipped **20+ production features** across **5+ concurrent client projects** serving **300+ active users**
 - Owned frontend architecture end to end: component systems, code standards, and design consistency
@@ -174,7 +180,10 @@ The wider body of client and personal work behind the case studies above:
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Mobile**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -186,7 +195,7 @@ The wider body of client and personal work behind the case studies above:
 
 **AI**
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Chatbots-0F5257?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Chatbots-2340D8?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **Data**
