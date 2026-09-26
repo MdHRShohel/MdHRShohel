@@ -42,7 +42,7 @@ Nine case studies, each with a full write-up on my portfolio:
 |---|---|---|
 | [**Hotel D'more — Hotel Booking Platform**](https://shohel.bro.bd/projects/hotel-dmore) | Direct-booking platform for a 7-property hotel chain: corporate site, a booking site per hotel, SSLCommerz payments, and an admin dashboard for rooms, rates and content | Next.js · Express · Prisma · MySQL · SSLCommerz |
 | [**BD Bank Routing — Open Dataset**](https://shohel.bro.bd/projects/bd-bank-routing) | Open-source Bangladesh bank, branch and BEFTN routing dataset (63 banks, 11,426 branches) with validators on PyPI and npm | Python · TypeScript · PyPI · npm |
-| [**Opseek — Careers on Webflow**](https://shohel.bro.bd/projects/opseek-careers-webflow) | Careers page and Jobs CMS for a design agency, so the team runs hiring without a developer | Webflow · CMS · JavaScript |
+| [**Opseek — Figma to Webflow Website**](https://shohel.bro.bd/projects/opseek-agency-website) | Full website for a UI/UX agency, built in Webflow from Figma, with CMS-driven services, case studies, blog and careers | Figma · Webflow · Webflow CMS · GSAP |
 | [**ETHOS — DeFi Protocol on Base**](https://shohel.bro.bd/projects/ethos-defi-protocol) | Multi-pool DeFi protocol with veToken governance, discount swaps, and Uniswap V4 integration on Base mainnet | React · TypeScript · Solidity · Vite · Ethereum |
 | [**Meana Raptor — Web3 Ecosystem**](https://shohel.bro.bd/projects/meana-raptor-web3-ecosystem) | Modular Web3 platform: MRT token site, NFT store, staking and raffles, with tier-based pricing from on-chain holdings | Next.js · Node.js · Express · MongoDB · Web3.js |
 | [**Crypto Gift Card Shop**](https://shohel.bro.bd/projects/gift-card-shop) | USDT gift card commerce on BSC and TRON with real-time chain verification and QR checkout | React · Node.js · MongoDB · Wagmi · TronWeb |
@@ -98,6 +98,14 @@ The wider body of client and personal work behind the case studies above:
 
 ---
 
+### Websites & No-Code
+
+| Project | Description | Stack |
+|---|---|---|
+| **Opseek Agency Website** | 7-page agency site built from Figma in Webflow, with CMS collections the team edits without a developer | Figma · Webflow · Webflow CMS · GSAP |
+
+---
+
 ### Social Media & Real-Time Communication
 
 | Project | Description | Stack |
@@ -116,7 +124,6 @@ The wider body of client and personal work behind the case studies above:
 | **Paylio** | Multi-tenant HRMS and payroll SaaS for Bangladesh — payroll, attendance, leave, disbursement and self-service | FastAPI · SQLAlchemy · PostgreSQL · Next.js · Docker |
 | **Joblee** | AI-powered hiring platform with LLM screening, OCR and async pipelines | FastAPI · PostgreSQL · Redis · Next.js · OpenAI |
 | **BD Bank Routing** | Open banking dataset and validator used to catch bad salary-bank details in payroll | Python · TypeScript · PyPI · npm |
-| **Opseek Careers** | Webflow careers page with a Jobs CMS the agency team manages on its own | Webflow · CMS |
 | **CRM Platform** | Real-time insurance task CRM with RBAC, JWT sessions, PDF generation, and batch operations | React · Express · MongoDB · Socket.io · JWT · PDF-lib |
 | **HR Management System** | Enterprise HR platform with face-recognition biometric attendance, payroll, and leave management | Express · MongoDB · TensorFlow.js · Face-API · React · React Native |
 | **AnalyticsX Dashboard** | Real-time business analytics with live Socket.io feeds and ApexCharts visualisations | React · Redux · Socket.io · ApexCharts |
@@ -165,6 +172,7 @@ The wider body of client and personal work behind the case studies above:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
