@@ -36,10 +36,13 @@ I own requirements, architecture, CI/CD, and production maintenance, and set cod
 
 ## Selected work
 
-Six case studies, each with a full write-up on my portfolio:
+Nine case studies, each with a full write-up on my portfolio:
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Hotel D'more — Hotel Booking Platform**](https://shohel.bro.bd/projects/hotel-dmore) | Direct-booking platform for a 7-property hotel chain: corporate site, a booking site per hotel, SSLCommerz payments, and an admin dashboard for rooms, rates and content | Next.js · Express · Prisma · MySQL · SSLCommerz |
+| [**BD Bank Routing — Open Dataset**](https://shohel.bro.bd/projects/bd-bank-routing) | Open-source Bangladesh bank, branch and BEFTN routing dataset (63 banks, 11,426 branches) with validators on PyPI and npm | Python · TypeScript · PyPI · npm |
+| [**Opseek — Careers on Webflow**](https://shohel.bro.bd/projects/opseek-careers-webflow) | Careers page and Jobs CMS for a design agency, so the team runs hiring without a developer | Webflow · CMS · JavaScript |
 | [**ETHOS — DeFi Protocol on Base**](https://shohel.bro.bd/projects/ethos-defi-protocol) | Multi-pool DeFi protocol with veToken governance, discount swaps, and Uniswap V4 integration on Base mainnet | React · TypeScript · Solidity · Vite · Ethereum |
 | [**Meana Raptor — Web3 Ecosystem**](https://shohel.bro.bd/projects/meana-raptor-web3-ecosystem) | Modular Web3 platform: MRT token site, NFT store, staking and raffles, with tier-based pricing from on-chain holdings | Next.js · Node.js · Express · MongoDB · Web3.js |
 | [**Crypto Gift Card Shop**](https://shohel.bro.bd/projects/gift-card-shop) | USDT gift card commerce on BSC and TRON with real-time chain verification and QR checkout | React · Node.js · MongoDB · Wagmi · TronWeb |
@@ -48,6 +51,15 @@ Six case studies, each with a full write-up on my portfolio:
 | [**Support AI Bot**](https://shohel.bro.bd/projects/support-ai-bot) | Telegram customer support system with an admin dashboard and conversation history | Node.js · Express · Next.js · MongoDB · OpenAI |
 
 More at **[shohel.bro.bd](https://shohel.bro.bd)**.
+
+## Open source
+
+**[bd-bank-routing](https://github.com/MdHRShohel/bd-bank-routing)** — Bangladesh bank, branch and BEFTN routing-number data with a validator for Python and JavaScript. Every row is traced to its source. Data under CC0, code under MIT. [Live lookup](https://mdhrshohel.github.io/bd-bank-routing/)
+
+```bash
+pip install bd-bank-routing
+npm install bd-bank-routing
+```
 
 ## Projects by Domain
 
@@ -69,6 +81,7 @@ The wider body of client and personal work behind the case studies above:
 
 | Project | Description | Stack |
 |---|---|---|
+| **Hotel D'more** | Multi-property hotel booking with per-date inventory, per-hotel SSLCommerz merchant accounts, and a CMS-driven admin dashboard | Next.js · Express · Prisma · MySQL · SSLCommerz |
 | **Crypto Gift Card Shop** | Multi-chain crypto e-commerce with USDT on BSC & TRON, QR checkout, and automated gift code delivery | React · Node.js · TronWeb · Wagmi · Stripe · BullMQ · Redis |
 | **Meana Raptor E-commerce** | Full-stack e-commerce with 3D product visualisation, hardware wallet support, and GSAP animations | Next.js · Three.js · ThirdWeb · GSAP · MongoDB |
 | **Trueterra Oils** | AI-powered product chatbot and storefront with OpenAI integration | Express.js · OpenAI API · MongoDB · Socket.io |
@@ -100,6 +113,10 @@ The wider body of client and personal work behind the case studies above:
 
 | Project | Description | Stack |
 |---|---|---|
+| **Paylio** | Multi-tenant HRMS and payroll SaaS for Bangladesh — payroll, attendance, leave, disbursement and self-service | FastAPI · SQLAlchemy · PostgreSQL · Next.js · Docker |
+| **Joblee** | AI-powered hiring platform with LLM screening, OCR and async pipelines | FastAPI · PostgreSQL · Redis · Next.js · OpenAI |
+| **BD Bank Routing** | Open banking dataset and validator used to catch bad salary-bank details in payroll | Python · TypeScript · PyPI · npm |
+| **Opseek Careers** | Webflow careers page with a Jobs CMS the agency team manages on its own | Webflow · CMS |
 | **CRM Platform** | Real-time insurance task CRM with RBAC, JWT sessions, PDF generation, and batch operations | React · Express · MongoDB · Socket.io · JWT · PDF-lib |
 | **HR Management System** | Enterprise HR platform with face-recognition biometric attendance, payroll, and leave management | Express · MongoDB · TensorFlow.js · Face-API · React · React Native |
 | **AnalyticsX Dashboard** | Real-time business analytics with live Socket.io feeds and ApexCharts visualisations | React · Redux · Socket.io · ApexCharts |
@@ -147,6 +164,7 @@ The wider body of client and personal work behind the case studies above:
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -166,6 +184,7 @@ The wider body of client and personal work behind the case studies above:
 **Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
