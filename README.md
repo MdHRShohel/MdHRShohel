@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Md.%20Habibur%20Rahman%20Shohel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20FastAPI%20%7C%20Web3&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+things+for+the+web+%F0%9F%9A%80;Software+Engineer+%40+Serviq+BPO+Limited;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+React+Native;Node.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Web3+%C2%B7+Solidity+%C2%B7+Ethers.js+%C2%B7+Wagmi+%C2%B7+TronWeb;Building+Paylio+%E2%80%94+HR+%26+Payroll+SaaS+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FFFFFF&center=true&width=800&background=0D1117&lines=Hey!+I+build+things+for+the+web+%F0%9F%9A%80;Software+Engineer+%40+Serviq+BPO+Limited;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+React+Native;Node.js+%C2%B7+NestJS+%C2%B7+FastAPI+%C2%B7+PostgreSQL;Web3+%C2%B7+Solidity+%C2%B7+Ethers.js+%C2%B7+Wagmi+%C2%B7+TronWeb;Building+Joblee+%26+Paylio+%E2%80%94+AI+Hiring+%26+Payroll+SaaS+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,19 +15,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%20Years-6366F1?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=mdhrshohel&label=Profile+Views&color=0891b2&style=for-the-badge" />
 </p>
 
 ## About
 
-Full-stack engineer with 3+ years shipping production systems across web, mobile, and blockchain. I build React and Next.js frontends on top of Node.js and Python backends, and I have shipped crypto payment flows on BSC and TRON into live commerce. IEEE-published, based in Dhaka.
+Full-stack engineer with 4 years of experience shipping production systems across web, mobile, blockchain, and AI. I build React and Next.js frontends on top of Node.js and Python (FastAPI) backends, lead product delivery from requirements to production, and have shipped crypto payment flows on BSC and TRON into live commerce. IEEE-published, based in Dhaka.
 
 ## Currently
 
-**Software Engineer at [Serviq BPO Limited](https://github.com/Serviq-Limited)**, building **Paylio**, a multi-tenant HR and payroll SaaS for the Bangladesh market.
+**Software Engineer at [Serviq BPO Limited](https://github.com/Serviq-Limited)** (Jun 2026 – present), leading end-to-end delivery of two products:
 
-FastAPI · SQLAlchemy 2.0 async · PostgreSQL · Next.js App Router · Tailwind · Docker. Multi-tenant organisation isolation, role-based access control, Bengali and English interfaces, and payroll rules written for Bangladeshi tax and compliance.
+- **Joblee** — an AI-powered hiring platform: AI/LLM candidate screening, document and OCR processing, and async background pipelines.
+- **[Paylio](https://mypaylio.com)** — a multi-tenant HRMS and payroll SaaS for the Bangladesh market: payroll, attendance, leave, disbursement, and employee self-service.
+
+FastAPI · SQLAlchemy 2.0 async · PostgreSQL · Redis · Next.js App Router · Tailwind · Docker. Multi-tenant organisation isolation, role-based access control, Bengali and English interfaces, payroll rules written for Bangladeshi tax and compliance, and identity-verification and payment-gateway integrations.
+
+I own requirements, architecture, CI/CD, and production maintenance, and set code-review standards for the team.
 
 ## Selected work
 
@@ -128,6 +133,8 @@ The wider body of client and personal work behind the case studies above:
 
 ## Impact
 
+- **4 years** of production work across 4 companies, from eHealth and mobile apps to Web3 and HR/payroll SaaS
+- Lead end-to-end delivery of **Joblee** and **Paylio** at Serviq — requirements, architecture, deployment, and maintenance
 - Shipped **20+ production features** across **5+ concurrent client projects** serving **300+ active users**
 - Owned frontend architecture end to end: component systems, code standards, and design consistency
 - Mentored **2–3 junior developers** through code review and pair programming
@@ -151,15 +158,23 @@ The wider body of client and personal work behind the case studies above:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
+**AI**
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Chatbots-0F5257?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
 **Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 **Web3**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=flat-square&logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-FFC517?style=flat-square&logo=ethereum&logoColor=black)
 ![TronWeb](https://img.shields.io/badge/TronWeb-EC0928?style=flat-square&logo=tron&logoColor=white)
 
 **Infra**
@@ -167,6 +182,7 @@ The wider body of client and personal work behind the case studies above:
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## Credentials
 
